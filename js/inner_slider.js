@@ -70,7 +70,7 @@
         slidesToShow: 4,
         dots:false,
         arrows:true,
-        slidesToScroll:1,
+        slidesToScroll:4,
         responsive: [
                        {
                 breakpoint: 769,
@@ -78,7 +78,7 @@
                   slidesToShow: 4,
                   arrows:true, 
                   dots:false,
-                  s1lidesToScroll:1
+                  s1lidesToScroll:4
                 }
               }
         ]
